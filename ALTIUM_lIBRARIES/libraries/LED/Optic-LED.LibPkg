@@ -211,23 +211,6 @@ GenerateClassCluster=0
 DocumentUniqueId=VYBMPEIB
 
 [Document11]
-DocumentPath=Wuerth_Elektronik_151033BS03000.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TXSFSTWL
-
-[Document12]
 DocumentPath=LED_3mm_WHITE.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
