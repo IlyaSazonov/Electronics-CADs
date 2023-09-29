@@ -228,6 +228,40 @@ GenerateClassCluster=0
 DocumentUniqueId=MOGSNYSG
 
 [Document12]
+DocumentPath=Klema_PCB_15A.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CILCMDUL
+
+[Document13]
+DocumentPath=XT-60.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KNGIKZWK
+
+[Document14]
 DocumentPath=Jumper_1x2.54.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -244,7 +278,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YIFTRVZG
 
-[Document13]
+[Document15]
+DocumentPath=XT-60.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SELGXJRQ
+
+[Document16]
 DocumentPath=Jumper_2.54.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -261,7 +312,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XSKHJDJS
 
-[Document14]
+[Document17]
 DocumentPath=DEGSON_DG25.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -278,7 +329,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JLJULSUI
 
-[Document15]
+[Document18]
+DocumentPath=Klema PCB_15_A.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BHMDQUES
+
+[Document19]
 DocumentPath=2.54_Connector_x3_male.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -295,7 +363,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EKWRBAOE
 
-[Document16]
+[Document20]
 DocumentPath=2.54_Connector_x3_female.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -312,7 +380,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PTSKSUFT
 
-[Document17]
+[Document21]
 DocumentPath=2.54_Connector_x3_female.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
